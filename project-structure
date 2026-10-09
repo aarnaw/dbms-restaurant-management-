@@ -1,0 +1,21 @@
+restaurant-management-cpp/
+├── README.md
+├── CMakeLists.txt
+├── include/
+│   ├── MenuItem.h
+│   ├── Customer.h
+│   ├── Order.h
+│   ├── Restaurant.h
+│   └── Database.h
+├── src/
+│   ├── main.cpp
+│   ├── MenuItem.cpp
+│   ├── Customer.cpp
+│   ├── Order.cpp
+│   ├── Restaurant.cpp
+│   └── Database.cpp
+├── data/
+│   ├── menu.txt
+│   ├── customers.txt
+│   └── orders.txt
+└── .gitignore
